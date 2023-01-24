@@ -15,7 +15,7 @@ public class UkraineHen extends Hen {
 
     @Override
     public void getDescription() {
-        System.out.println("Menin olkom " + getCountry()+"bir aida ushuncha jumurtka berem"+getCountOfEggsPerMonth());
+        System.out.println("Menin olkom " + getCountry()+" bir aida ushuncha jumurtka berem "+getCountOfEggsPerMonth());
     }
 
 
